@@ -16,7 +16,7 @@ author = "Abhinav Tadepalli"
 description = "Abhinav Tadepalli's portfolio website"
 keywords = "blog,developer,personal"
 info = ["Under-graduate Student at Amrita Vishwa Vidyapeetham"]
-avatarURL = "[url=https://imgbb.com/][img]https://i.ibb.co/M7x0VKC/Avatar.jpg[/img][/url]"
+avatarURL = "themes/hugo-coderimages/Abhi.jpg"
 #gravatar = "john.doe@example.com"
 footerContent = "Enter a text here."
 dateFormat = "January 2, 2006"
