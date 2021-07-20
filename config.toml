@@ -1,4 +1,4 @@
-baseURL = "https://abhinav140902.github.io/"
+baseURL = "/"
 title = "Abhinav"
 theme = "hugo-coder"
 languageCode = "en"
