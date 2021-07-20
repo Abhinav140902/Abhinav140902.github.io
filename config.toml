@@ -109,14 +109,26 @@ url = "https://github.com/Abhinav140902"
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-twitter"
-weight = 3
+weight = 2
 url = "https://twitter.com/Abhi140902"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin"
-weight = 4
+weight = 3
 url = "https://www.linkedin.com/in/abhinav-tadepalli-471574214/"
+
+[[params.social]]
+name = "Email"
+icon = "fa fa-envelope"
+weight = 4
+url = "mailto:abhinav140902@gmail.com"
+
+[[params.social]]
+name = "Telegram"
+icon = "fa fa-telegram"
+weight = 5
+url = "https://t.me/abhinav140902"
 
 
 
